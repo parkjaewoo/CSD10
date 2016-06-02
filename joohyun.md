@@ -53,11 +53,10 @@
 
  - 코드
 ```cpp
-     #include <iostream>
-     int main(void)
+     #include <stdio.h>
+     void main()
      {
-          cout << "Football info" << endl;
-          return 0;
+          printf("한화 이글스");
      }
 ```
-==============================================
+-------------------------------------------
