@@ -46,7 +46,7 @@
 -------------------------------------------
 
 ####  < 마크 >
-![마크](http://www.jadwal2.com/wp-content/uploads/2014/07/Jadwal-Liga-Inggris.jpg)
+![마크](https://github.com/parkjaewoo/CSD10/blob/master/Hanwha_Eagles_emblem.png)
 
 
 -------------------------------------------
