@@ -13,7 +13,7 @@
 
 --------------------------------------------------------
 
-#### <i class="icon-list"></i> < 한화 5연승 >
+#### < 한화 5연승 >
 
 1. 5월 26일 (목) 한화 **7** : 6 넥센 
 2. 5월 27일 (금) 한화 **11** : 7 롯데
@@ -24,10 +24,12 @@
 --------------------------------------------------------
 [5월 26일 첫 경기 한화 VS 넥센(인라인 링크)](http://sports.news.naver.com/gameCenter/gameVideo.nhn?category=kbo&gameId=20160526HHWO02016)
 
-[5월 31일 5연승 경기 한화 VS SK(참조 링크)]:http://sports.news.naver.com/gameCenter/gameVideo.nhn?category=kbo&gameId=20160531SKHH02016
+
+[5월 31일 5연승 경기 한화 VS SK(참조 링크)][5연승 경기 링크]
+[5연승 경기 링크]:http://sports.news.naver.com/gameCenter/gameVideo.nhn?category=kbo&gameId=20160531SKHH02016
 --------------------------------------------------------
 
-#### <i class="icon-list"> </i> 순위
+#### 한화이글스 연승 기록
 |Rank | Team        | Point |
 |:----|:----------- | ----: |
 | 1   | ManCity     | 25    |
