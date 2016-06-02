@@ -23,7 +23,6 @@
 
 --------------------------------------------------------
 
-<i class="icon-link"></i> 링크
 [5월 26일 첫 경기 한화 VS 넥센(인라인 링크)](http://sports.news.naver.com/gameCenter/gameVideo.nhn?category=kbo&gameId=20160526HHWO02016)
 
 [5월 31일 5연승 경기 한화 VS SK(참조 링크)][5연승 경기]:http://sports.news.naver.com/gameCenter/gameVideo.nhn?category=kbo&gameId=20160531SKHH02016
