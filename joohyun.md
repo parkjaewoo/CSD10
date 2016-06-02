@@ -31,7 +31,7 @@
 [5연승 경기 링크]:http://sports.news.naver.com/gameCenter/gameVideo.nhn?category=kbo&gameId=20160531SKHH02016
 --------------------------------------------------------
 
-#### 한화이글스 연승 기록
+#### < 한화이글스 연승 기록 >
 |연승 |날짜         |
 |:----|:----------- |
 | 3   | 2016.05.28  |
@@ -45,8 +45,8 @@
 
 -------------------------------------------
 
-##### 엠블럼
-![엠블럼](http://www.jadwal2.com/wp-content/uploads/2014/07/Jadwal-Liga-Inggris.jpg)
+####  < 마크 >
+![마크](http://www.jadwal2.com/wp-content/uploads/2014/07/Jadwal-Liga-Inggris.jpg)
 
 
 -------------------------------------------
