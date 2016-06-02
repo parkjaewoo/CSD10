@@ -22,11 +22,10 @@
 5. 5월 31일 (화) 한화 **8** : 4 SK
 
 --------------------------------------------------------
-
 [5월 26일 첫 경기 한화 VS 넥센(인라인 링크)](http://sports.news.naver.com/gameCenter/gameVideo.nhn?category=kbo&gameId=20160526HHWO02016)
 
-[5월 31일 5연승 경기 한화 VS SK(참조 링크)][5연승 경기]:http://sports.news.naver.com/gameCenter/gameVideo.nhn?category=kbo&gameId=20160531SKHH02016
--------------------------------------------
+[5월 31일 5연승 경기 한화 VS SK(참조 링크)]:http://sports.news.naver.com/gameCenter/gameVideo.nhn?category=kbo&gameId=20160531SKHH02016
+--------------------------------------------------------
 
 #### <i class="icon-list"> </i> 순위
 |Rank | Team        | Point |
