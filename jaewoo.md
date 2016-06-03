@@ -19,9 +19,11 @@ major: computer enginear
 
 
 [인라인](http://google.com)
+
+
 [참조][I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[arbitrary case-insensitive reference text]: https://www.naver.com
+[arbitrary case-insensitive reference text]: http://www.naver.com/
 
 
 1. google
