@@ -1,4 +1,5 @@
 #**CSD10**
+자기소개 입니다.
 
 -----------------------------
 name:**parkjaewoo**
@@ -12,16 +13,17 @@ major: computer enginear
 |parkjaewoo| **23**  |_Computer_  |
 
 
-[my favarite page](http://google.com)
 
-Inine style:
+이미지:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Reference style:
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
-1. naver
-2. google
+[my favarite page](http://google.com)
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+
+1. google
+2. naver
 3. daum
 
 * github
