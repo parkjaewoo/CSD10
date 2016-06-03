@@ -18,8 +18,10 @@ major: computer enginear
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
-[my favarite page](http://google.com)
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+[인라인](http://google.com)
+[참조][I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[arbitrary case-insensitive reference text]: https://www.naver.com
 
 
 1. google
