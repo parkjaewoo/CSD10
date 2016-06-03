@@ -15,7 +15,7 @@ major: computer enginear
 [my favarite page](http://google.com)
 
 Inine style:
-![alt text](http://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Reference style
 
