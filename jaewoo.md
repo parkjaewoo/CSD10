@@ -1,7 +1,7 @@
-#** CSD10**
+#**CSD10**
 
 -----------------------------
-name:** parkjaewoo**
+name:**parkjaewoo**
 ****************************
 age: 23
 ---------------------------
@@ -21,6 +21,8 @@ Reference style
 
 1. naver
 2. google
+3. 
+
 * github
 - slack
 + aa
