@@ -17,7 +17,8 @@ major: computer enginear
 Inine style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Reference style
+Reference style:
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 1. naver
 2. google
