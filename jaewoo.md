@@ -21,7 +21,7 @@ Reference style
 
 1. naver
 2. google
-3. 
+3. daum
 
 * github
 - slack
